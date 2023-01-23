@@ -1,15 +1,17 @@
-# Test Technique NodeJS 1WAYCOM
+## Test Technique NodeJS 1WAYCOM
 
 
-## Available Scripts
+1. Install dependencies
 
-In the project directory, you can run:
+ ```
+ npm install
+ ```
+2. Run project 
 
-### `npm install`
+```
+npm start
+```
 
-run project :
+3. Test API
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:9000/api/getCitiesByCodePostal?zipcode=66490](http://localhost:9000/api/getCitiesByCodePostal?zipcode=66490) to view it in your browser.
+  Open [http://localhost:9000/api/getCitiesByCodePostal?zipcode=66490](http://localhost:9000/api/getCitiesByCodePostal?zipcode=66490) to view it in your browser.
